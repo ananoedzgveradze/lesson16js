@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-block {
+    height: 100px;
+}
+.email-block {
+    margin-bottom: 30px;
+}
